@@ -1,0 +1,9 @@
+{
+    "id": "j0mshBalatroMod",
+    "name": "j0msh's Balatro Mod",
+    "author": ["j0msh"],
+    "description": "My first mod",
+    "prefix": "pre",
+    "main": "main.lua",
+    "version": "0.0.1"
+}
