@@ -3,7 +3,7 @@
     "name": "j0msh's Balatro Mod",
     "author": ["j0msh"],
     "description": "My first mod",
-    "prefix": "pre",
+    "prefix": "j0msh",
     "main_file": "main.lua",
     "version": "0.0.1"
 }
