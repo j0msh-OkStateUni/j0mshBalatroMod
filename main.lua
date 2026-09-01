@@ -4,7 +4,8 @@ SMODS.Atlas{
     key = 'placeholder',
     path = 'placeholder.png',
     px = 71,
-    py = 95
+    py = 95,
+    force_pixel = true
 }
 
 
