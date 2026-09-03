@@ -1,5 +1,5 @@
 SMODS.Joker {
-    key = "Bird",
+    key = "bird",
 
     loc_txt = {
         name = "Larry Bird",

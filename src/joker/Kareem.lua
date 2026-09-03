@@ -26,7 +26,7 @@ end
 
 
 SMODS.Joker {
-    key = "kareem",
+    key = "abdul-jabbar",
 
     loc_txt = {
         name = "Kareem Abdul-Jabbar",
