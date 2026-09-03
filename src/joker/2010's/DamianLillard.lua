@@ -19,7 +19,7 @@ local function is_dame_time(context)
 end
 
 SMODS.Joker {
-    key = "Lillard",
+    key = "lillard",
 
     loc_txt = {
         name = "Damian Lillard",

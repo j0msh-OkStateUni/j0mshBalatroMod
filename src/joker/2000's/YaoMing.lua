@@ -1,5 +1,5 @@
 local Yao = SMODS.Joker {
-    key = "Yao",
+    key = "ming",
 
     loc_txt = {
         name = "Yao Ming",

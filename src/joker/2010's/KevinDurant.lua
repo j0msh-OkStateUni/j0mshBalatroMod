@@ -45,7 +45,7 @@ local function is_five_card_flush(poker_hands)
 end
 
 SMODS.Joker {
-    key = "Durant",
+    key = "durant",
 
     loc_txt = {
         name = "Kevin Durant",
