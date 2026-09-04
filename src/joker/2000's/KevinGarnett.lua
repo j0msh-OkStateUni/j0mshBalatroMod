@@ -15,6 +15,8 @@ SMODS.Joker {
     rarity = 3,
     cost = 8,
 
+    unlocked = true,
+    discovered = true,
     blueprint_compat = false,
 
     calculate = function(self, card, context)
