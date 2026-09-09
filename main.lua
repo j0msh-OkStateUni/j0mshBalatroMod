@@ -11,7 +11,8 @@ SMODS.Atlas{
 
 SMODS.current_mod.optional_features = function()
     return {
-        post_trigger = true
+        post_trigger = true,
+        retrigger_joker = true
     }
 end
 
