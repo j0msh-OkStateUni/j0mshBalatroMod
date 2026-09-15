@@ -13,7 +13,7 @@ SMODS.Joker {
     pos = { x = 4, y = 3 },
 
     rarity = 3,
-    cost = 9,
+    cost = 8,
 
     unlocked = true,
     discovered = true,

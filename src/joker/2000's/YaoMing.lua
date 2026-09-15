@@ -14,8 +14,8 @@ local Yao = SMODS.Joker {
     atlas = "placeholder",
     pos = { x = 3, y = 1 },
 
-    rarity = 2,
-    cost = 7,
+    rarity = 1,
+    cost = 4,
 
     unlocked = true,
     discovered = true,

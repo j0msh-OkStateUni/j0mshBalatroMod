@@ -28,8 +28,8 @@ SMODS.Joker {
     atlas = "placeholder",
     pos = { x = 0, y = 1 },
 
-    rarity = 2,
-    cost = 7,
+    rarity = 1,
+    cost = 5,
 
     unlocked = true,
     discovered = true,
